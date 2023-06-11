@@ -1,4 +1,4 @@
 {
     "name": "zyke_crafting",
-    "logs": ["Started", "Finished"]
+    "logs": ["Started", "Finished", "Test"]
 }
