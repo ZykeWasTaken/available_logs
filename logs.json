@@ -1,4 +1,8 @@
 {
     "name": "zyke_crafting",
-    "logs": ["Started", "Finished", "Test", "Test"]
+    "logs": ["Started", "Finished", "Test1", "Test2"]
+},
+{
+    "name": "zyke_gangs",
+    "logs": ["Test1", "Test2", "Test3"]
 }
