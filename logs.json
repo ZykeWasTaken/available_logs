@@ -5,6 +5,39 @@
     },
     {
         "name": "zyke_gangs",
-        "logs": ["Test1", "Test2", "Test3"]
+        "logs": [
+            "Test1",
+            "Test2",
+            "Test3",
+            "CreateGang",
+            "TransferOwnership",
+            "HandleGrids",
+            "ClaimFlag",
+            "AddClaimableFlag",
+            "HandleMoney",
+            "HandlePerkPoints",
+            "HandleProtectedBusinesses",
+            "AddExperience",
+            "LevelUp",
+            "MemberSlotsAdded",
+            "HandleAvailableGrids",
+            "HandleLoyalty",
+            "AddBoostTime",
+            "Decay",
+            "CollectProtectionFee",
+            "AddLaunderMoneyToBusiness",
+            "ClaimObjective",
+            "HandleMembers",
+            "HandleRanks",
+            "LevelPerk",
+            "GenerateProtectionFee",
+            "SetBoostTime",
+            "AddUnlockedShopItem",
+            "RemovePerkStep",
+            "HandleStock",
+            "GenerateObjective",
+            "RemoveObjective",
+            "EditedObjective"
+        ]
     }
 ]
