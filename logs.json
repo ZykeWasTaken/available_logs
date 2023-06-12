@@ -6,9 +6,6 @@
     {
         "name": "zyke_gangs",
         "logs": [
-            "Test1",
-            "Test2",
-            "Test3",
             "CreateGang",
             "TransferOwnership",
             "HandleGrids",
